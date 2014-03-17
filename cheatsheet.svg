@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="881.50949"
-     inkscape:cy="383.61927"
+     inkscape:cx="731.50949"
+     inkscape:cy="848.61927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -870,10 +870,15 @@
          x="347.41299"
          y="328.20493"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"
-         id="tspan3117-1" /><tspan
+         id="tspan3235">git plog - For a pretty log with file summary</tspan><tspan
          sodipodi:role="line"
          x="347.41299"
          y="343.20493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan3117-1" /><tspan
+         sodipodi:role="line"
+         x="347.41299"
+         y="358.20493"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4000" /></text>
     <text
