@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="731.50949"
-     inkscape:cy="848.61927"
+     inkscape:cy="220.04784"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -592,6 +592,21 @@
          sodipodi:role="line"
          x="1025.5321"
          y="926.37439"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3237" /><tspan
+         sodipodi:role="line"
+         x="1025.5321"
+         y="941.37439"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3239"># Network subnet mask cheatsheet</tspan><tspan
+         sodipodi:role="line"
+         x="1025.5321"
+         y="956.37439"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3241">http://www.aelius.com/njh/subnet_sheet.html</tspan><tspan
+         sodipodi:role="line"
+         x="1025.5321"
+         y="971.37439"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
          id="tspan4396-6" /></text>
     <text
