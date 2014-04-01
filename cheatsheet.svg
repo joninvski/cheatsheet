@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="731.50949"
-     inkscape:cy="220.04784"
+     inkscape:cx="622.93806"
+     inkscape:cy="287.90498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -347,7 +347,22 @@
          x="347.68839"
          y="791.84674"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
-         id="tspan3190">DISPLAY=&quot;:0&quot;</tspan></text>
+         id="tspan3190">DISPLAY=&quot;:0&quot;; export DISPLAY</tspan><tspan
+         sodipodi:role="line"
+         x="347.68839"
+         y="806.84674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3238" /><tspan
+         sodipodi:role="line"
+         x="347.68839"
+         y="821.84674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3240"># Reverse ssh tunnel</tspan><tspan
+         sodipodi:role="line"
+         x="347.68839"
+         y="836.84674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono Bold"
+         id="tspan3242">ssh -fN -R 53032:localhost:22 remote_host</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:SF Slapstick Comic;-inkscape-font-specification:SF Slapstick Comic"
